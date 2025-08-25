@@ -1,0 +1,11 @@
+# CyberAuditX dependencies
+
+# Standard library modules are built-in and don't need to be listed,
+# but this file includes optional external tools for deep scans.
+
+python-nmap     # Python wrapper for nmap
+pyclamd         # Python interface for ClamAV daemon
+
+# Optional: Add these if you expand functionality
+# psutil        # For advanced system inspection
+# pywin32       # For Windows-specific features
